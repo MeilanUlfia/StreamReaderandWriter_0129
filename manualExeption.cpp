@@ -9,7 +9,8 @@ int main() {
     }
 
     catch (int a) {
-        
+        // blok ini akan dieksekusi
+        cout << "Pengecualian akan dieksekusi" << endl;
     }
     catch (...) {
         
