@@ -2,3 +2,5 @@
 #include <exception>
 
 // untuk obyek exception yang akan digunakan
+#include <array>
+// untuk array exception yang akan digunakan
